@@ -7,6 +7,8 @@ If you have a great idea, do let me know!<br>
 ## OS support
 1. Windows
 2. Mac
+3. ubuntu comming soon
+4. android comming soon
 
 ## Dependencies
 1. selenium
